@@ -25,7 +25,7 @@ It does indeed feel like utopia, and id doesn’t make me nervous or protective.
 
 * Assess the importance of using licenses.
 
-It is important to use a license. In order to have the legal right to use software to achieve the required needs, the rights and limits in the associated software license are very important. You must grant rights for others to modify software if that’s what you want, or else there could be legal issues.
+It is important to use a license. In order to have the legal right to use software to achieve the required needs, the rights and limits in the associated software license are very important. You must grant rights for others to modify software if that’s what you want, or else there could be legal issues. Also, you want to be able to control if people can make money off your code, or if they hav to make the improvements they made public, etc.
 
 
 
