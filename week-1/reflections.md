@@ -34,9 +34,6 @@ practice meditation and exercise  more
 
 
 
-
-
-
 ####1.2 The Command Line Reflection ####
 
 What is a shell? What is "bash?"
@@ -85,8 +82,6 @@ Can you remember what each of the following does of the top of your head? Write 
 
 
 
-
-
 ####1.4 Forking and Cloning Reflection  ####
 
 
@@ -105,5 +100,7 @@ git clone then the URL - hit enter - then enter git hub username and password
 * What struggles did you have setting up git and GitHub? What did you learn in the process?
 
  I already had installed git on my computer luckily. GitHub makes it easy to setup, and create projects. The most interesting thing about the process is the fact that what is on GitHub can be also stored locally and you can access it via the CLI
+
+
 
 
