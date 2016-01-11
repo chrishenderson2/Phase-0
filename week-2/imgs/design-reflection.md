@@ -1,1 +1,1 @@
-![Sitemap](/imgs/site-map.png)
+![Sitemap](/week-2/imgs/site-map.png)
