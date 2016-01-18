@@ -1,4 +1,4 @@
-![Change Colors](Phase-0/week-3/chrome-devtools/imgs/change-colors.png)
+![Change Colors](imgs/change-colors.png)
 ![Columns](imgs/column.png)
 
 #How can you use Chrome's DevTools inspector to help you format or position elements?#
