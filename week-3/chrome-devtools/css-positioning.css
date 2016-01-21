@@ -1,7 +1,10 @@
+<<<<<<< HEAD
+=======
 /*Note: There are three different ways to add background colors here.
 You can add them using a name (for common names), Hex, or RGB values.
 */
 
+>>>>>>> master
 body {
   background-color: gray;
 }
@@ -10,23 +13,47 @@ body {
   border: 1px solid black;
   background-color: purple;
   position: static;
+<<<<<<< HEAD
+  margin-bottom: 200px;
+}
+#div-2 {
+  background-color: #09CDA1;
+  position: relative;
+  top: 0px;
+  left: 50px;
+=======
 }
 #div-2 {
   background-color: #09CDA1;
  
+>>>>>>> master
   width: 200px;
   height: 200px;
 }
 #div-3 {
   background-color: #69D2E7;
+<<<<<<< HEAD
+  position: absolute;
+  top: 240px;
+  left: 30px;
+=======
   
+>>>>>>> master
   width: 100px;
   height: 100px;
 }
 #div-4 {
   background-color: rgb(205,163,205);
   width: 300px;
+<<<<<<< HEAD
+  position: fixed;
   top: 100px;
   left: 200px;
   height: 100px;
 }
+=======
+  top: 100px;
+  left: 200px;
+  height: 100px;
+}
+>>>>>>> master
