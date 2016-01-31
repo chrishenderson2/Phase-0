@@ -22,10 +22,4 @@ def valid_triangle?(a, b, c)
   end
 end
 
-  class
-  	
-
-
-
-
-end
+valid_triangle?(7,9,6)
