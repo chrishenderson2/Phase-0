@@ -1,0 +1,17 @@
+*{
+/*	border:1px solid red;
+*/	background-color: pink;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.column-1 {
+	float: left;
+	width: 450px;
+
+}
+
+.column-2 {
+	float: right;
+	width: 450px;
+}
