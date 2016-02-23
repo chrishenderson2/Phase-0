@@ -21,6 +21,8 @@
 
 def insert_commas(number)
 	numberstring = number.to_s
+	numberstring.reverse!
+	futurestring = ""
 
 	case commanumber
 
@@ -29,6 +31,11 @@ def insert_commas(number)
 		when 
 			numberstring.length >3
 			numberarray = numberstring.split("")
+
+			numberarray.insert(2,",")
+
+			futurestring += numberarray.join ""
+
 
 	end
 end
