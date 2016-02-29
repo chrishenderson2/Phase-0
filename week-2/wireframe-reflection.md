@@ -1,5 +1,5 @@
-![Wireframe site](/week-2/wireframe-Home.png)
-![Wireframe blog](/week-2/Wireframe-blog.png)
+![Wireframe site](./week-2/wireframe-Home.png)
+![Wireframe blog](./week-2/Wireframe-blog.png)
 
 
 
@@ -20,8 +20,7 @@ Evaluate overall effectiveness of the page layout against usability best practic
 
 #Did you enjoy wireframing your site?#
 
-I did indeed :)
-
+I enjoyed wireframing the site. I was able to plan and anticipate target users.
 
 #Did you revise your wireframe or stick with your first idea?#
 
