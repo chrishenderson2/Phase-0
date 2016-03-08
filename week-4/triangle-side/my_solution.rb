@@ -7,6 +7,7 @@
 
 
 def valid_triangle?(a, b, c)
+
   if (a == 0 || b == 0 || c == 0)
     return false
   elsif ((a + b <= c ) || (a + c <= b) || (b + c <= a))
@@ -16,10 +17,13 @@ def valid_triangle?(a, b, c)
   elsif ((a == b) || (a == c) || (b == c))
     return true
   elsif ((a+2*b+2*c) && (2*a+b+2*c) && (2*a+2*b+3*c))
+
     return true
   else
     return false
   end
 end
 
-valid_triangle?(7,9,6)
+puts valid_triangle?(7,9,6)
+
+#puts valid_triangle?(1,2,9)
